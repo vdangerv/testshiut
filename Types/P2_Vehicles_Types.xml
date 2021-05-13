@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	    <type name="zeroy_jeep_willis">
+			<nominal>0</nominal>
+			<lifetime>3888000</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+	    <type name="zeroy_jeep_willis_clean">
+			<nominal>0</nominal>
+			<lifetime>3888000</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+	    <type name="zeroy_jeep_willis_dirty">
+			<nominal>0</nominal>
+			<lifetime>3888000</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+	    <type name="zeroy_jeep_willis_camo">
+			<nominal>0</nominal>
+			<lifetime>3888000</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+	    <type name="zeroy_jeep_willis_camo2">
+			<nominal>0</nominal>
+			<lifetime>3888000</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+	    <type name="MRAP_Cougar">
+			<nominal>0</nominal>
+			<lifetime>3888000</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+        <!-- Hummer -->
+        <type name="CrSk_HMMWV_PMC">
+            <nominal>0</nominal>
+            <lifetime>3888000</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="HMMWV_PMC_dver_1_1">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_dver_1_2">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_dver_2_1">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_dver_2_2">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_koleso">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>	
+        <type name="CrSk_HMMWV_PMC_Woodland">
+            <nominal>0</nominal>
+            <lifetime>3888000</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="HMMWV_PMC_Woodland_dver_1_1">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_Woodland_dver_1_2">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_Woodland_dver_2_1">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_Woodland_dver_2_2">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="CrSk_HMMWV_PMC_RAZR">
+            <nominal>0</nominal>
+            <lifetime>3888000</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="HMMWV_PMC_RAZR_dver_1_1">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_RAZR_dver_2_1">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_RAZR_dver_1_2">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_RAZR_dver_2_2">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="CrSk_HMMWV_PMC_Anarchy">
+            <nominal>0</nominal>
+            <lifetime>3888000</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="HMMWV_PMC_Anarchy_dver_1_1">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_Anarchy_dver_2_1">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_Anarchy_dver_1_2">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_Anarchy_dver_2_2">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="CrSk_HMMWV_PMC_Tan">
+            <nominal>0</nominal>
+            <lifetime>3888000</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="HMMWV_PMC_Tan_dver_1_1">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_Tan_dver_2_1">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_Tan_dver_1_2">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_Tan_dver_2_2">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="CrSk_HMMWV_PMC_Green">
+            <nominal>0</nominal>
+            <lifetime>3888000</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="HMMWV_PMC_Green_dver_1_1">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_Green_dver_2_1">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_Green_dver_1_2">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_Green_dver_2_2">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="CrSk_HMMWV_PMC_Black">
+            <nominal>0</nominal>
+            <lifetime>3888000</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="HMMWV_PMC_Black_dver_1_1">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_Black_dver_2_1">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_Black_dver_1_2">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <type name="HMMWV_PMC_Black_dver_2_2">
+            <nominal>2</nominal>
+            <lifetime>2700</lifetime>
+            <restock>0</restock>
+            <min>1</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="vehiclesparts"/>
+            <tag name="floor"/>
+            <usage name="Industrial"/>
+        </type>
+        <!-- Heli's-->
+        		<type name="HeliSIB_UH1D">
+			<nominal>0</nominal>
+			<lifetime>3888000</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+		<type name="HeliSIB_UH1D_airforce">
+			<nominal>0</nominal>
+			<lifetime>3888000</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+		<type name="HeliSIB_UH1D_navy">
+			<nominal>0</nominal>
+			<lifetime>3888000</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+		<type name="HeliSIB_UH1D_iron">
+			<nominal>0</nominal>
+			<lifetime>3888000</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+		<type name="Helipolice_SIB4">
+			<nominal>0</nominal>
+			<lifetime>3888000</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+		<type name="Helipolice_SWAT_SIB5">
+			<nominal>0</nominal>
+			<lifetime>3888000</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+		<type name="Heliblack_hawk_SiB">
+			<nominal>0</nominal>
+			<lifetime>3888000</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+		<type name="Heliblack_hawk_SiB_camo">
+			<nominal>0</nominal>
+			<lifetime>3888000</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+</types>
